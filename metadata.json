@@ -1,0 +1,6 @@
+{
+  "name": "خطوة للزواج الرسمي",
+  "description": "منصة مخصصة للتوفيق بين الراغبين في الزواج الشرعي بخصوصية وأمان تام تحت إشراف الإدارة بالذكاء الاصطناعي.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
